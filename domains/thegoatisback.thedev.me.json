@@ -2,8 +2,8 @@
   "subdomain": "www.thegoatisback.com",
   "domain": "thegoatisback.thedev.me",
   "email_or_discord": "1735022@fcpsschools.net",
-  "github_username": "user",
-  "description": "A brief description of the purpose of the subdomain",
+  "github_username": "1735022",
+  "description": "for my cname",
 
   "records": {
     "A":     ["1.0.0.1", "1.0.0.2"],
